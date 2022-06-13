@@ -72,6 +72,7 @@ body {
 .contact-list {
     display: flex;
     margin-left: auto;
+    color:#2196F3
 }
 
 
@@ -267,6 +268,7 @@ body {
 }
 
 .filters-item-btn {
+    font-family: inherit;
     padding: 6px 22px;
     border: none;
     background: #F5F4FA;
